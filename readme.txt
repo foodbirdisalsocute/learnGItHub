@@ -1,2 +1,3 @@
-git is a version system
-gt is free software
+gt is free stware
+
+ei this is new
